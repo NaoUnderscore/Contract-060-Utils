@@ -3,9 +3,9 @@ pragma solidity ^0.6.6;
 import "https://github.com/NaoUnderscore/Contract-060-Utils/blob/main/SafeMath.sol";
 import "https://github.com/NaoUnderscore/Contract-060-Utils/blob/main/IERC20.sol";
 import "https://github.com/NaoUnderscore/Contract-060-Utils/blob/main/SafeERC20.sol";
-import "https://github.com/aave/flashloan-box/blob/Remix/contracts/aave/IFlashLoanReceiver.sol";
-import "https://github.com/aave/flashloan-box/blob/Remix/contracts/aave/ILendingPoolAddressesProvider.sol";
-import "https://github.com/aave/flashloan-box/blob/Remix/contracts/utils/Withdrawable.sol";
+import "https://github.com/NaoUnderscore/Contract-060-Utils/blob/main/IFlashLoanReceiver.sol";
+import "https://github.com/NaoUnderscore/Contract-060-Utils/blob/main/ILendingPoolAddressesProvider.sol";
+import "https://github.com/NaoUnderscore/Contract-060-Utils/blob/main/Withdrawable.sol";
 
 abstract contract FlashLoanReceiverBase is IFlashLoanReceiver, Withdrawable {
 
