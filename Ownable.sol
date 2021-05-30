@@ -2,7 +2,7 @@
 
 pragma solidity ^0.6.0;
 
-import "../GSN/Context.sol";
+import "https://github.com/NaoUnderscore/Contract-060-Utils/blob/main/Context.sol";
 /**
  * @dev Contract module which provides a basic access control mechanism, where
  * there is an account (an owner) that can be granted exclusive access to
