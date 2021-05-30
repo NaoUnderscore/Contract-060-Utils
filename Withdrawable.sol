@@ -2,7 +2,7 @@ pragma solidity ^0.6.6;
 
 import "https://github.com/NaoUnderscore/Contract-060-Utils/blob/main/IERC20.sol";
 import "https://github.com/NaoUnderscore/Contract-060-Utils/blob/main/SafeERC20.sol";
-import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/Ownable.sol";
+import "https://github.com/NaoUnderscore/Contract-060-Utils/blob/main/Ownable.sol";
 
 /**
     Ensures that any contract that inherits from this contract is able to
