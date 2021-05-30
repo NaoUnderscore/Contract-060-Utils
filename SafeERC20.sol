@@ -2,7 +2,7 @@
 
 pragma solidity ^0.6.0;
 
-import "./IERC20.sol";
+import "https://github.com/NaoUnderscore/Contract-060-Utils/blob/main/IERC20.sol";
 import "https://github.com/NaoUnderscore/Contract-060-Utils/blob/main/SafeMath.sol";
 import "https://github.com/NaoUnderscore/Contract-060-Utils/blob/main/Address.sol";
 
