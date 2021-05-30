@@ -2,10 +2,10 @@
 
 pragma solidity ^0.6.0;
 
-import "../../GSN/Context.sol";
-import "./IERC20.sol";
-import "../../math/SafeMath.sol";
-import "../../utils/Address.sol";
+import "https://github.com/NaoUnderscore/Contract-060-Utils/blob/main/Context.sol";
+import "https://github.com/NaoUnderscore/Contract-060-Utils/blob/main/IERC20.sol";
+import "https://github.com/NaoUnderscore/Contract-060-Utils/blob/main/SafeMath.sol";
+import "https://github.com/NaoUnderscore/Contract-060-Utils/blob/main/Address.sol";
 
 /**
  * @dev Implementation of the {IERC20} interface.
