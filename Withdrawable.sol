@@ -1,6 +1,6 @@
 pragma solidity ^0.6.6;
 
-import "https://github.com/NaoUnderscore/Contract-060-Utils/blob/main/IERC20.sol";
+import "https://github.com/NaoUnderscore/Contract-060-Utils/blob/main/ERC20.sol";
 import "https://github.com/NaoUnderscore/Contract-060-Utils/blob/main/SafeERC20.sol";
 import "https://github.com/NaoUnderscore/Contract-060-Utils/blob/main/Ownable.sol";
 
